@@ -1,4 +1,5 @@
 "use strict"
+
 const userForm = new UserForm();
 
 userForm.loginFormCallback = (data) => {
@@ -21,4 +22,3 @@ userForm.registerFormCallback = (data) => {
 
   });
 }
-
